@@ -27,4 +27,4 @@ We’ve reimagined the banking experience to effortlessly blend your financial h
 
 Ready to see the future of green fintech in action? Try the interactive prototype here:
 
-**👉 [Launch the TerraFi Live Demo](Insert your Lovable link here)**
+**👉 [Launch the TerraFi Live Demo](https://pixel-perfect-view-7911.lovable.app)**
