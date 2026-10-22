@@ -29,6 +29,9 @@ Ready to see the future of green fintech in action? Try the interactive prototyp
 
 **👉 [Launch the TerraFi Live Demo](https://pixel-perfect-view-7911.lovable.app)**
 
+OR 
+run it locally
+
 ```sh
 git clone https://github.com/NickDelig/TerraFi.git
 cd TerraFi
