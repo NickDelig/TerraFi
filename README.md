@@ -1,30 +1,29 @@
-# 🌍 TerraFi
+# Welcome to your Lovable project
 
-**Your Wallet. Your Planet. Your Future.**
+This project was built with [Lovable](https://lovable.dev).
 
-Welcome to the next generation of banking. Traditional finance apps tell you where your money went yesterday. **TerraFi** shows you where your money—and your environmental impact—is going tomorrow. 
+## Build with Lovable
 
-We’ve reimagined the banking experience to effortlessly blend your financial health with your carbon footprint. By turning passive tracking into proactive guidance, TerraFi empowers you to make smarter, greener choices that reward both your wallet and the planet.
+Open your project in the [Lovable editor](https://lovable.dev) and keep building.
 
----
+- **Ship faster**: describe what you want to build and Lovable handles the code.
+- **Stay in sync**: connect the project to GitHub and every change made in Lovable is committed straight to your repository.
+- **Full ownership**: this code is yours. Push to your repository and your changes sync back into Lovable, ready for your next prompt.
 
-### ✨ Why You'll Love It
+## Development
 
-* **🔮 Look Into the Future**  
-  No more end-of-month surprises. Our **30-Day Forecast** predicts your upcoming balance and ESG score trajectory based on your habits, helping you secure the best loan and savings rates before the month even ends.
+Prefer working locally? You need Node.js and npm — [install with nvm](https://github.com/nvm-sh/nvm#installing-and-updating).
 
-* **💡 Smart Green Swaps**  
-  Meet your new AI financial co-pilot. When you shop, our **Recommender Engine** instantly suggests localized, eco-friendly alternatives. Swap your fast-fashion purchase for a sustainable brand, and watch your reward points multiply!
+```sh
+git clone <this-repository-url>
+cd <repository-name>
+npm i
+npm run dev
+```
 
-* **🌱 Grow Your Rewards**  
-  Every green choice earns you points. Watch your virtual TerraFi Tree flourish as your score rises, unlocking exclusive Tier-1 interest rates and premium financial perks.
+## Built with
 
-*Making a difference shouldn't cost you extra—it should pay off.*
-
----
-
-### 🚀 Experience it Live
-
-Ready to see the future of green fintech in action? Try the interactive prototype here:
-
-**👉 [Launch the TerraFi Live Demo](https://pixel-perfect-view-7911.lovable.app)**
+- TanStack Start
+- TypeScript
+- React
+- Tailwind CSS
