@@ -30,8 +30,8 @@ Ready to see the future of green fintech in action? Try the interactive prototyp
 **👉 [Launch the TerraFi Live Demo](https://pixel-perfect-view-7911.lovable.app)**
 
 ```sh
-git clone <https://github.com/NickDelig/TerraFi>
-cd <TerraFi>
+git clone https://github.com/NickDelig/TerraFi.git
+cd TerraFi
 npm i
 npm run dev
 ```
